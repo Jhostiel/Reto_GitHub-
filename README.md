@@ -28,26 +28,4 @@ Proyecto en desarrollo. Se actualizará progresivamente a medida que avance el a
 
 ## Autor
 
-Jose Luis Mendez# Mi primer proyecto con Git y GitHub
-
-## Descripción
-
-Este proyecto representa mi primer ejercicio práctico
-utilizando Git y GitHub.
-
-## Objetivos
-
-- Aprender a utilizar Git.
-- Comprender cómo funcionan los commits.
-- Administrar repositorios locales y remotos.
-- Publicar proyectos en GitHub.
-
-## Objetivos del proyecto
-
-- Practicar el control de versiones con Git.
-- Aprender a trabajar con ramas.
-- Comprender cómo integrar cambios entre ramas.
-
-## Autor
-
 Jose Luis Mendez
