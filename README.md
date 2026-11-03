@@ -14,4 +14,4 @@ utilizando Git y GitHub.
 
 ## Autor
 
-Jhostiel
+Jose Luis Mendez
